@@ -1,0 +1,12 @@
+Images/
+Proposal/
+
+*.drawio
+*.one
+*.pdf
+*.pptx
+*.txt
+*.zip
+
+function_map.jpg
+testAl.m
